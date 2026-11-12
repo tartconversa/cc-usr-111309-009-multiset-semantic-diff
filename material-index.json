@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/contract.json",
+    "sha256": "8c91a4b61fb572aa06fa8f77e2ee65632c086ddf63a79a6f68b1506b0f534f4f",
+    "size_bytes": 641
+  },
+  {
+    "path": "fixtures/left.csv",
+    "sha256": "ebd5b45beba18d1b7cdf7eaa92dd52dc031b9693bb1e6a5fc9417d0b0b61ed87",
+    "size_bytes": 137
+  },
+  {
+    "path": "fixtures/right.jsonl",
+    "sha256": "b9bf087ba823b601aaea64e26421562f1c1704ab803c3675d24400f3deb2de2f",
+    "size_bytes": 241
+  }
+]

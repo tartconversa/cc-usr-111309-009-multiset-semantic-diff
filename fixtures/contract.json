@@ -1,0 +1,33 @@
+{
+  "encoding": "utf-8",
+  "fields": [
+    {
+      "field_id": 1,
+      "name": "code",
+      "type": "string"
+    },
+    {
+      "field_id": 2,
+      "name": "amount",
+      "type": "decimal",
+      "scale": 2
+    },
+    {
+      "field_id": 3,
+      "name": "time",
+      "type": "timestamp_with_timezone"
+    },
+    {
+      "field_id": 4,
+      "name": "note",
+      "type": "nullable_string"
+    }
+  ],
+  "csv_null_token": "",
+  "unicode_normalization": "none",
+  "missing_column": "distinct_from_null",
+  "hash": "sha256",
+  "final_equal_requires": "exact_canonical_byte_multiplicities",
+  "buffer_max_bytes": 512,
+  "bucket_count": 4
+}

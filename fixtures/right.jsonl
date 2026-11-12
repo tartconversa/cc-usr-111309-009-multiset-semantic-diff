@@ -1,0 +1,3 @@
+{"code": "a", "amount": "1", "time": "2026-01-01T00:00:00Z", "note": "line1\nline2"}
+{"code": "b", "amount": "1.00", "time": "2026-01-01T00:00:00Z", "note": null}
+{"code": "b", "amount": "1.00", "time": "2026-01-01T00:00:00Z", "note": null}
